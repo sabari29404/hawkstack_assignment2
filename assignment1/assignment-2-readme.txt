@@ -1,5 +1,3 @@
-# hawkstack_assignment2
-
 
 
 ---
